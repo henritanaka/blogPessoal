@@ -1,0 +1,22 @@
+ul.social-network li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+
+.faFacebook, .faLikedin, .faInstagram{
+    color: white;
+}
+
+.faFacebook:hover{
+    color: #3b5998;
+}
+
+.faLikedin.hover{
+    color: #0072b1;
+}
+
+.faInstagram.hover{
+    color: #C13584;
+
+}
