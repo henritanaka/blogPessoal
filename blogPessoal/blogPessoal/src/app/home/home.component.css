@@ -1,0 +1,13 @@
+.parallax {
+    background-image: url("https://www.magicwebdesign.com.br/blog/wp-content/uploads/2012/04/google.jpg");
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
