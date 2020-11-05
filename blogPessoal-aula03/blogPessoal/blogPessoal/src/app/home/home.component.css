@@ -1,0 +1,10 @@
+.parallax {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2gRmJ3pusNE1O-z3L5Vxv5tf6ETg4A9rNVg&usqp=CAU');
+  
+    min-height: 500px;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
